@@ -1,0 +1,7 @@
+---
+library: false
+name: 0xalpharush/go-queries
+version: 0.0.1
+dependencies:
+  codeql/go-all: 0.7.7
+extractor: go
