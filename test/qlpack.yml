@@ -1,5 +1,6 @@
 ---
 name: 0xalpharush/my-query-tests
+tests: .
 dependencies:
   0xalpharush/go-queries: "*"
 extractor: go
